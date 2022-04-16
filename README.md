@@ -1,2 +1,2 @@
 # TESTE_BDC
-TESTE BDC
+Diagrama do teste.
